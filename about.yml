@@ -1,11 +1,10 @@
 ---
 name: Dmitry Medyannikov
-job: QA engineer
+job: QA Engineer
 level: junior
 email: dmitrymedyannikov555@gmail.com
-description: 
-  - ex-electrician # профильное образование, была 4 группа по электробезовасности свыше 1000В
-  - ex-loco test bench operator # проведение испытаний элементов тягового привода локомотивов EP20, 2ES5, KZ8, KZ4AT
-  - ex-QC HMMR # контроль качества сборки автомобилей на заводе Хёндэ
-skills:
+description: |
+  Работал электриком, тестировал электровозы и автомобили
+skills: 
   - функциональное тестирование
+  - написание багрепортов
